@@ -1,0 +1,1 @@
+ C:\\Users\\Andre\\Desktop\\AppMapp\\GitHub\\bostad_app_v2\\bostad_app_v2\\.dart_tool\\flutter_build\\0ec64c3cd4c667f62847c7fcd06bc090\\native_assets.yaml: 
